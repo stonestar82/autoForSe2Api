@@ -1,0 +1,9 @@
+{
+  "APP_MODE": "development",
+  "APP_HOST": "0.0.0.0",
+  "APP_PORT": "80",
+  "DB_USER_NAME": "root",
+  "DB_USER_PASSWD": "gt!23",
+  "DB_HOST": "192.168.30.2", 
+  "DB_NAME": "meetingRoom"
+}
